@@ -6,3 +6,4 @@ Practical-4: https://drive.google.com/file/d/1rEIVMYd61xSEiAwYbFMMaWvl1xOx_OWj/v
 Practical-5: https://drive.google.com/file/d/16WSqy_GUMV-Z0vPaQ4uGxLVf8zflyNK3/view?usp=sharing
 Cisco certificate- Python 1: https://drive.google.com/file/d/1rcgqXeIErh6zAzmZcyQVQmvCqsNTHFat/view?usp=drivesdk
 Cisco certificate- Python 2: https://drive.google.com/file/d/1RAgVwpID4mpgqdZpn1JPBxt3Gc21G7SE/view?usp=drivesdk
+IBM certificate:- https://drive.google.com/file/d/1fAqJnsee13h0Bj5sr_gh_IPJudKBjidr/view?usp=drivesdk
